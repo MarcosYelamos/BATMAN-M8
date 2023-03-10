@@ -1,14 +1,15 @@
-body div {
-    background-image: url(/img/header_background.jpeg);
-    color: black;
-}
-
 body {
     margin: 0 auto;
     max-width: 50%;
     font-family: 'Golos Text';
     font-size: larger;
 }
+
+body header {
+    background-image: url(../img/header_background.jpeg);
+    color: black;
+}
+
 
 #fuente-rara {
     font-family: 'Old Standard TT';
