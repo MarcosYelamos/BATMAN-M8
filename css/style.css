@@ -1,14 +1,15 @@
+body header {
+    background-image: url(/img/header_background.jpeg);
+    color: black;
+    
+}
+
 body {
     margin: 0 auto;
     max-width: 50%;
     font-family: 'Golos Text';
     font-size: larger;
 }
-
-.fondo-batman {
-    background-image: url(../img/header_background.jpeg);
-}
-
 
 #fuente-rara {
     font-family: 'Old Standard TT';
@@ -32,3 +33,4 @@ body {
         font-size:small ;
     }
 }
+
