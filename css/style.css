@@ -1,7 +1,6 @@
-body header {
+body div {
     background-image: url(/img/header_background.jpeg);
     color: black;
-    
 }
 
 body {
