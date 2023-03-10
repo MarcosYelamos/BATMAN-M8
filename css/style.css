@@ -5,6 +5,11 @@ body {
     font-size: larger;
 }
 
+.fondo-batman {
+    background-image: url(../img/header_background.jpeg);
+}
+
+
 #fuente-rara {
     font-family: 'Old Standard TT';
     
@@ -12,4 +17,18 @@ body {
 .link {
     text-decoration: none;
     color: rgb(221, 63, 63);
+}
+
+.imagenes {
+    width: 100%;
+}
+
+.video {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        font-size:small ;
+    }
 }
