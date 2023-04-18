@@ -65,5 +65,8 @@ body {
     body {
         font-size:small ;
     }
+    .cabecera {
+        font-size: 25px;
+    }
 }
 
